@@ -1,6 +1,7 @@
 #!/bin/bash
 
 ### configuration de MXMLC   ###
+#
 ################################
  
 #répertoire d'installation de MXMLC
