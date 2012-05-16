@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 ### configuration de MXMLC   ###
 ################################
  
