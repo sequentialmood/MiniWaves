@@ -251,7 +251,7 @@ package {
 			
 			//_n = Math.floor(_ToneSlider.value);
 			_timer.delay = Math.floor(_DelaySlider.value);
-			//trace(_timer.delay)
+			trace(_timer.delay)
 			_arpegiatorCount++;
 		}
 		
