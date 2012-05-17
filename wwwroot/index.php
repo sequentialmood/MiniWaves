@@ -6,7 +6,7 @@
 <!--
 //v1.7
 //TEST GIT
-// GOGO
+// GOGO 
 // Flash Player Version Detection
 // Detect Client Browser type
 // Copyright 2005-2008 Adobe Systems Incorporated.  All rights reserved.
